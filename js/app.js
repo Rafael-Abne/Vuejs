@@ -8,5 +8,6 @@ const app = new Vue({
             {text: 'item 3'},
             {text: 'item 4'}
         ]
+        
     }
 })
