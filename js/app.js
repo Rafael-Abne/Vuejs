@@ -5,7 +5,8 @@ const app = new Vue({
         list: [
             {text: 'item 1'},
             {text: 'item 2'},
-            {text: 'item 3'}
+            {text: 'item 3'},
+            {text: 'item 4'}
         ]
     }
 })
